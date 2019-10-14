@@ -1,0 +1,37 @@
+@import "../../assets/colors";
+
+.home_page {
+  width: 95%;
+  max-width: 1000px;
+  font-size: 40px;
+  color: #2e3546;
+
+  box-sizing: border-box;
+  padding: 30px;
+
+  background: #F7F7F7;
+}
+
+.text {
+  width: 90%;
+
+  text-align: left;
+  margin-top: 30px;
+  color: #2e3546;
+  font-size: 20px;
+}
+
+.table {
+  max-width: 700px;
+  min-width: 400px;
+  border: none;
+  margin-top: 20px;
+}
+
+.link {
+  width: 100%;
+  text-align: left;
+  margin-top: 15px;
+  color: #F78700;
+  font-size: 30px;
+}

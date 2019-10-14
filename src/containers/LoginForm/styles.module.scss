@@ -1,0 +1,40 @@
+@import "../../assets/colors";
+
+.login_form {
+  width: 50%;
+  min-width: 300px;
+  max-width: 400px;
+  font-size: 18px;
+  color: #2e3546;
+
+  box-sizing: border-box;
+  padding: 40px 30px;
+
+  background: #F7F7F7;
+  border-radius: 5px;
+  border: solid 1px #FFCB78;
+}
+
+
+
+
+.error_message {
+  height: 15px;
+  font-size: 14px;
+  margin-bottom: 30px;
+  color: red;
+  text-align: left;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.link {
+  width: 100%;
+  text-align: center;
+  margin-top: 15px;
+  color: #F78700;
+  font-size: 18px;
+}

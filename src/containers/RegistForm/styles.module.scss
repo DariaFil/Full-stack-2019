@@ -1,0 +1,28 @@
+@import "../../assets/colors";
+
+.login_form {
+  height: 500px;
+  width: 50%;
+  min-width: 300px;
+  max-width: 400px;
+
+  box-sizing: border-box;
+  padding: 40px 30px;
+
+  background: #F7F7F7;
+  border-radius: 5px;
+  border: solid 1px #e0e0e0;
+}
+
+
+
+
+.error_message {
+  margin-top: 10px;
+  color: red;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
